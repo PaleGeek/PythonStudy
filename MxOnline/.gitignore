@@ -1,0 +1,7 @@
+.idea
+*.pyc
+/MxOnline/settings.py
+/venv
+courses/*
+
+
